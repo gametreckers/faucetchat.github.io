@@ -1,6 +1,6 @@
 # untitled-dice
 
-##### Live demo: https://untitled-dice.github.io
+##### Live demo: https://faucetchat.github.io
 
 More info (including changelog and FAQ) in the bitcointalk.org thread: https://bitcointalk.org/index.php?topic=1062680
 
